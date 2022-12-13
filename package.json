@@ -1,6 +1,6 @@
 {
-  "name": "ukm-vue-components",
-  "version": "1.0.1",
+  "name": "ukm-vue-komponenter",
+  "version": "1.0.0",
   "description": "VUE JS components used by UKM",
   "main": "index.js",
   "scripts": {
@@ -8,18 +8,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/slogan-15/UKMVueComponents.git"
+    "url": "git+https://github.com/UKMNorge/ukm-vue-komponenter.git"
   },
   "keywords": [
-    "vue",
+    "vue",  
     "components"
   ],
   "author": "UKM KA",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/slogan-15/UKMVueComponents/issues"
+    "url": "https://github.com/UKMNorge/ukm-vue-komponenter/issues"
   },
-  "homepage": "https://github.com/slogan-15/UKMVueComponents#readme",
+  "homepage": "https://github.com/UKMNorge/ukm-vue-komponenter#readme",
   "devDependencies": {
     "@types/node": "^18.11.14"
   }
