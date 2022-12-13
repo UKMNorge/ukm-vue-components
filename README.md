@@ -45,7 +45,7 @@ Argumenter som må sendes:
 For eksempel:
 ```typescript
 values = [ClassItem, ClassItem];
-keys = classItem.getKeysForTable();
+keys = ClassItem.getKeysForTable();
 ```
 
 Klasse TableItem:
