@@ -1,6 +1,6 @@
 {
   "name": "ukm-vue-komponenter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "VUE JS components used by UKM",
   "main": "index.js",
   "scripts": {
