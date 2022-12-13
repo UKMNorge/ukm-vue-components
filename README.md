@@ -69,4 +69,4 @@ class TableItem {
 
 
 ### Andre funksjoner
-I tillegg har TableKomponent metode for å sortere, fjerne og legge til igjen keys.
+I tillegg har TableKomponent metode for å sortere, fjerne og legge til keys igjen.
