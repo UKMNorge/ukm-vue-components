@@ -22,7 +22,7 @@
 
 <script lang="ts">
 // Import av Vue
-import { Vue, Component, Prop } from "vue-property-decorator";
+import { Vue } from "vue-property-decorator";
 import Video from '../objects/Video';
 
 declare var ajaxurl: string; // Kommer fra global
