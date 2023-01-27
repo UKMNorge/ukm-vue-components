@@ -1,5 +1,5 @@
 const TableKomponent = require('./vue/Table.vue'); 
-const TableKomponent = require('./vue/VideoVue.vue'); 
+const VideoVue = require('./vue/VideoVue.vue'); 
 
 module.exports = {
     TableKomponent,
