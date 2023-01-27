@@ -1,6 +1,10 @@
-const TableKomponent = require('./Table.vue'); 
+const TableKomponent = require('./vue/Table.vue'); 
+const TableKomponent = require('./vue/VideoVue.vue'); 
 
-export default TableKomponent;
+module.exports = {
+    TableKomponent,
+    VideoVue
+};
 
 /*
 // Hvordan henter man exports? Se under...
