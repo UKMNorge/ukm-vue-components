@@ -1,3 +1,6 @@
+# Dette repoet er arkivert og skal ikke videreutvikles 
+Se på https://github.com/UKMNorge/ukm-components-vue3
+
 # UKM Vue Komponenter
 
 Forskjellige Vue komponenter som brukes på ulike UKM systemer hvor Vue brukes
